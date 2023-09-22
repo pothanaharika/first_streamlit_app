@@ -8,3 +8,5 @@ streamlit.text('🥑🍞Avocado Toast')
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
                
 # streamlit is python packaged library
+
+import pandas
